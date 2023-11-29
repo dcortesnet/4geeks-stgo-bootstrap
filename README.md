@@ -2,9 +2,9 @@
 
 Fundamentals of the framework Bootstrap. Repository with examples and basic exercises of components, layouts, forms and others. This repository is part of a self-taught supplemental course to help students develop skills.
 
-## Introducción a Bootstrap (Español)
+## VSCODE extensions
 
-Bootstrap es un popular framework de código abierto para el desarrollo front-end, desarrollado por Twitter. Es una colección de componentes HTML, CSS y JavaScript diseñados para ayudar a los desarrolladores a construir sitios web de manera rápida y sencilla, con un diseño adaptable y visualmente atractivo. Bootstrap proporciona un sistema de cuadrícula, componentes pre-diseñados (como barras de navegación, formularios, botones) y diversas clases de utilidad.
+- HTML CSS support: https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
 
 ## Team
 
